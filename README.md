@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: .primes_np_comparison.png "Comparison"
+[image1]: ./primes_np_comparison.png "Comparison"
 
 ## Comparison of fastest Python implementations of algorithms for finding all prime numbers below N
 
